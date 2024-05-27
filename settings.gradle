@@ -1,0 +1,4 @@
+rootProject.name = 'Spring-techs'
+include 'data_access_layer'
+include 'controller'
+include 'service'
