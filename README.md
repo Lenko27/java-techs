@@ -1,4 +1,4 @@
-# java-techs
+# java-techs-spring
 Service for accounting cats and their owners. Rest API implemented. For final version was used Spring Boot, Spring Security, Hibernate, PostgreSQL, Postman/Swagger UI.
 
 Github page to tasks:
